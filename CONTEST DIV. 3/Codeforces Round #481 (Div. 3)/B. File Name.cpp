@@ -1,4 +1,7 @@
-/*HungVoCs47*/
+/*
+    * Author: HungVoCs47
+    * Status: AC
+*/
 # include <bits/stdc++.h>
 using namespace std;
 const int MAXN=1005;
